@@ -12,7 +12,8 @@ LISTA_ALUNOS = [
     "Arthur G.",
     "Arthur S.",
     "Eduardo",
-    "João"
+    "João",
+    "Joel"
 ]
 
 # --- ESTRUTURA DE MEMÓRIA (Guarda o histórico individual de cada aluno) ---
